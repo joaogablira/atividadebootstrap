@@ -1,0 +1,28 @@
+section{
+    margin-bottom: 1.5%;
+}
+h1{
+    text-align: center;
+}
+
+.espaco{
+margin-top: 1%;
+}
+
+footer{
+    padding: 1%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.timg{
+    width: 80%;
+}
+
+.flex{
+    display: flex;
+}
+
+.ancora{
+
+}
